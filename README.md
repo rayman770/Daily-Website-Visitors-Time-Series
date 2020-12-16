@@ -33,11 +33,11 @@
         - Preprocessing
         
     - Analyzing Data
-        - (1) Summaries of Categorical and Numeric Data
-        - 2) Pair Plot of Daily Website Visit
-        - 3-1) Plot by Period - Daily Totals
-        - 3-2) Plot by Period - Monthly Totals
-        - 3-3) Plot by Period - Yearly Totals
-        - 3-4) Plot by Period - Weekdays
-        - 4) Decomposition into Trend and Seasonality
-        - 5) Forecasting with Facebook Prophet
+        - Summaries of Categorical and Numeric Data
+        - Pair Plot of Daily Website Visit
+        - Plot by Period - Daily Totals
+        - Plot by Period - Monthly Totals
+        - Plot by Period - Yearly Totals
+        - Plot by Period - Weekdays
+        - Decomposition into Trend and Seasonality
+        - Forecasting with Facebook Prophet
