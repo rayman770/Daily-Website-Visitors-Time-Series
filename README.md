@@ -1,5 +1,5 @@
 # Daily-Website-Visitors-Time-Series
-![image.png](attachment:image.png)
+![website traffic](https://websitechecker.com/wp-content/uploads/2020/04/AdobeStock_154964316-1024x576.jpeg)
 
 - **Dataset Source**
     - https://www.kaggle.com/bobnau/daily-website-visitors
