@@ -33,7 +33,7 @@
         - Preprocessing
         
     - Analyzing Data
-        - 1) Summaries of Categorical and Numeric Data
+        - (1) Summaries of Categorical and Numeric Data
         - 2) Pair Plot of Daily Website Visit
         - 3-1) Plot by Period - Daily Totals
         - 3-2) Plot by Period - Monthly Totals
